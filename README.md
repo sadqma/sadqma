@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Information+Systems+graduate;Data+Analytics" alt="Typing SVG" />
 
-📍 Petropavl, Kazakhstan &nbsp;·&nbsp; 🎓 B.Sc. Information Systems in Management &nbsp;·&nbsp; 🇺🇸 Exchange @ University of Arizona
+📍 Petropavl, Kazakhstan &nbsp;·&nbsp; 🎓 B.Sc. Information Systems in Management/Data Science &nbsp;·&nbsp; 🇺🇸 Exchange @ University of Arizona
 
 </div>
 
