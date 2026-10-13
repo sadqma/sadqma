@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Information+Systems+graduate;Building+web+apps+%26+ML+projects;Learning+CS+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Information+Systems+graduate;Data+Analytics% " alt="Typing SVG" />
 
 📍 Petropavl, Kazakhstan &nbsp;·&nbsp; 🎓 B.Sc. Information Systems in Management &nbsp;·&nbsp; 🇺🇸 Exchange @ University of Arizona
 
@@ -11,11 +11,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Graduated from **Manash Kozybayev North Kazakhstan University** with a degree in *Information Systems in Management*
-- 🌵 Spent a semester at the **University of Arizona** as part of my study program
-- 🤖 I build web apps and machine-learning projects, working hand in hand with AI tools to ship faster and learn as I go
-- 📚 Currently going through a self-built **30-week CS curriculum**: algorithms, OS, networking, databases, security, data science & ML
 - 💼 Open to roles in **AI, IT project management, and tech support**
-- 🌍 Russian (native) · English (C1) · Kazakh (learning)
 
 ---
 
