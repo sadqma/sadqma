@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Graduated from **Manash Kozybayev North Kazakhstan University** with a degree in *Information Systems in Management*
+- 🎓 Graduated from **Manash Kozybayev North Kazakhstan University** with a dual degree in *Information Systems in Management* and *Data Science*
 - 💼 Open to roles in **Data/Business Analytics**
 
 ---
