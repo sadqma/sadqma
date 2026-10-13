@@ -1,4 +1,3 @@
-<img width="984" height="418" alt="image" src="https://github.com/user-attachments/assets/bb72c47c-9f50-46d8-ae22-93dbc270cc36" /><div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Information+Systems+graduate;Data+Analytics " alt="Typing SVG" />
 
